@@ -2,13 +2,6 @@
 
 Software Developer. I love building smooth user experiences, crafting logic for interactive systems, and managing sports data pipelines. 
 
----
-
-### 🏅 My Digital Sticker Board
-[![An image of @varunkanchan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/varunkanchan)](https://holopin.io/@varunkanchan)
-
----
-
 ## 🛠️ Tech Stack & Toolkit
 
 | Category | Technologies |
