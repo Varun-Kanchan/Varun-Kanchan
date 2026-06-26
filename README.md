@@ -23,7 +23,7 @@ Associate Software Developer & Game Creator. I love building smooth user experie
 ## 🚀 Active Projects & Experiments
 
 *   **🏸 ProBadmintonManager:** A sports management application backend built with Node.js and MongoDB to simulate, track, and manage player stats, tournaments, and roles.
-*   **📊 Kini-Tracker:** A custom automated task-tracking system powered by Google Apps Script to streamline development workflows and daily updates.
+*   **📊 Mail-Tracker:** A custom automated task-tracking system powered by Google Apps Script to streamline development workflows and daily updates.
 
 ---
 
