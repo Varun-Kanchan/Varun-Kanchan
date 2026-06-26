@@ -1,6 +1,6 @@
 # Hi there, I'm Varun! 👋
 
-Associate Software Developer & Game Creator. I love building smooth user experiences, crafting logic for interactive systems, and managing sports data pipelines. 
+Software Developer. I love building smooth user experiences, crafting logic for interactive systems, and managing sports data pipelines. 
 
 ---
 
@@ -14,8 +14,7 @@ Associate Software Developer & Game Creator. I love building smooth user experie
 | Category | Technologies |
 | :--- | :--- |
 | **Frontend** | React, HTML5, CSS3, JavaScript |
-| **Backend & DB** | Node.js, Python, Express, MongoDB |
-| **Game Dev** | Unity Engine, C# |
+| **Backend & DB** | Node.js, Python, Express, MongoDB, Java |
 | **Tools & Cloud** | Git, GitHub, AppScript, Google Sheets API |
 
 ---
